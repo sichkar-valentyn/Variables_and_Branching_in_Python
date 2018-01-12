@@ -10,7 +10,7 @@
 # [1] Valentyn N Sichkar. Variables and Branching in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Variables_and_Branching_in_Python (date of access: XX.XX.XXXX)
 
 """
-Created on Mon Dec 25 22:24:34 2017
+Created on Sun Jan 07 00:05:15 2018
 
 @author: Valentyn
 """
